@@ -19,6 +19,6 @@ The square foot has a large range of values from 2 to 74340. Considering the con
 #### Data Visualisation & Dashboards
 The data from Kaggle was copied to Power BI to create the visualisations. A scatter graph was produced using the new square foot column and the price of the houses, due to the volume of data an additional scatter graph was created using the average price of homes for each square foot interval. As the majority of properties fell under 10000 square foot the graphs will filtered to only include these data points as there were few points outside of this range which had an  impact on the interpretability of the graphs.
 
-![alt text](PriceofHomes.png)
+
 
 
